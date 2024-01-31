@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zHaFV7lGqBjP3gbkK4NQrQbmvOngVUzEumRHEgLLcEc=",
+  "Source": "WebAppWeatherForecast.Web",
+  "BasePath": "_content/WebAppWeatherForecast.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

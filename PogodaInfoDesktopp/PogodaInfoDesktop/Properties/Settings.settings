@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PogodaInfoDesktop.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:7191</Value>
+    </Setting>
+    <Setting Name="WeatherController" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/api/PublicData</Value>
+    </Setting>
+    <Setting Name="HealthController" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/api/Health</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

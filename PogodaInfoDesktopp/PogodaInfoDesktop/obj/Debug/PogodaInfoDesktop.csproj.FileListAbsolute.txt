@@ -1,0 +1,64 @@
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\PogodaInfoDesktop.exe.config
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\PogodaInfoDesktop.exe
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\PogodaInfoDesktop.pdb
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\RestSharp.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Buffers.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Memory.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Text.Json.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.ValueTuple.dll
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\RestSharp.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Buffers.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Memory.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Text.Json.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\bin\Debug\System.ValueTuple.xml
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.csproj.AssemblyReference.cache
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.Form1.resources
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.Properties.Resources.resources
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.csproj.GenerateResource.cache
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.csproj.CoreCompileInputs.cache
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.csproj.CopyComplete
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.exe
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.pdb
+C:\Users\morfe\source\repos\Zadania\nau\PogodaInfoDesktop\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.Form2.resources
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\PogodaInfoDesktop.exe.config
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\PogodaInfoDesktop.exe
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\PogodaInfoDesktop.pdb
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\RestSharp.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Buffers.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Memory.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Text.Json.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.ValueTuple.dll
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\RestSharp.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Buffers.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Memory.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Text.Json.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\bin\Debug\System.ValueTuple.xml
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.csproj.AssemblyReference.cache
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.Form1.resources
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.Form2.resources
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.Properties.Resources.resources
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.csproj.GenerateResource.cache
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.csproj.CoreCompileInputs.cache
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.csproj.CopyComplete
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.exe
+C:\Users\morfe\OneDrive\Pulpit\PROJEKT ZALICZENIOWY .NET\PogodaInfoDesktop — kopia\PogodaInfoDesktop\obj\Debug\PogodaInfoDesktop.pdb
