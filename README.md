@@ -1,15 +1,5 @@
-Aplikacja Pogodowa z wykorzystaniem ASP.NET Core i Windows Forms
+A suite of applications comprising an ASP.NET Core service and a desktop application built with the Windows Forms framework, designed for monitoring current weather data in Poland. The service connects to the public API of the imgw.danepubliczne.pl website, fetching information about current weather in JSON format.
 
-Zestaw aplikacji składający się z serwisu ASP.NET Core oraz aplikacji desktopowej stworzonej w frameworku Windows Forms, 
-zaprojektowany do monitorowania aktualnych danych pogodowych w Polsce. Serwis łączy się z publicznym API strony imgw.danepubliczne.pl, 
-pobierając informacje o aktualnej pogodzie w formacie JSON.
+The ASP.NET Core service acts as an intermediary layer between the imgw.danepubliczne.pl API and the desktop application. It interacts with the API, retrieving current weather data in JSON format. The service offers a uniform API, facilitating easy retrieval of weather data for specific locations.
 
-
-Serwis ASP.NET Core działa jako warstwa pośrednicząca pomiędzy API imgw.danepubliczne.pl a aplikacją desktopową. 
-Współpracuje z API, pobierając aktualne dane pogodowe w formie JSON. Serwis oferuje jednolite API, 
-które umożliwia łatwe pobieranie danych pogodowych dla konkretnych lokalizacji.
-
-
-Aplikacja desktopowa, oparta na frameworku Windows Forms w technologii .NET, stanowi interfejs użytkownika do monitorowania pogody. 
-Pozwala użytkownikowi na wybór konkretnej lokalizacji na mapie Polski i wyświetlenie aktualnych danych pogodowych, 
-takich jak temperatura i ciśnienie atmosferyczne. Aplikacja komunikuje się z serwisem ASP.NET Core, zapewniając szybki dostęp do aktualnych informacji pogodowych.
+The desktop application, based on the Windows Forms framework in .NET technology, serves as the user interface for weather monitoring. It allows the user to select a specific location on the map of Poland and display current weather data, such as temperature and atmospheric pressure. The application communicates with the ASP.NET Core service, ensuring fast access to current weather information.
